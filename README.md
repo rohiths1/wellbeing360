@@ -1,1 +1,1 @@
-# wellbeing360
+WellBeing360 is a website designed to be a student's one-stop shop for mental well-being and academic success. It provides curated resources, interactive tools, and a supportive online community to combat stress, improve focus, and achieve goals. With features like a helpful chatbot and expert Q&A sessions, WellBeing360 empowers students to thrive during their academic journey.
